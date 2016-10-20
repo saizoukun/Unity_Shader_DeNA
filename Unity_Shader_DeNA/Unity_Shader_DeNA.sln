@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{ECA26B5B-EA7F-B16F-107F-6B1CCBF3F6BB}") = "Unity_Shader_DeNA", "Assembly-CSharp.csproj", "{ADD0A338-8183-7182-B19E-C43B27DB4BA3}"
+EndProject
+Project("{ECA26B5B-EA7F-B16F-107F-6B1CCBF3F6BB}") = "Unity_Shader_DeNA", "Assembly-CSharp-Editor.csproj", "{B363CD99-9CAD-F481-C890-734D34A5E566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADD0A338-8183-7182-B19E-C43B27DB4BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADD0A338-8183-7182-B19E-C43B27DB4BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADD0A338-8183-7182-B19E-C43B27DB4BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADD0A338-8183-7182-B19E-C43B27DB4BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B363CD99-9CAD-F481-C890-734D34A5E566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B363CD99-9CAD-F481-C890-734D34A5E566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B363CD99-9CAD-F481-C890-734D34A5E566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B363CD99-9CAD-F481-C890-734D34A5E566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
